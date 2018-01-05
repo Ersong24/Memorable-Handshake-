@@ -1,0 +1,74 @@
+<style>
+  
+  p {
+    font-family: "times";
+  }
+  li {
+    font-family: "georgia";
+  }
+  h2 {
+    color: #33cc66;
+  }
+  
+</style>
+
+
+
+
+<body>
+ <div>
+  <div class="text-center">
+ <h1 class="text-center" style="color:#33cc66">
+ The Great General Sun Tzu</h1>
+  
+  <img
+  src="https://i.gyazo.com/bbb9d050d9d4d34abe2e2c1effe01b79.jpg" class="img-circle img-thumbnail">
+   
+  <p><blockquote>Statue of Sun Tzu in Yurihama, Tottori, Japan</blockquote></p></br></br>
+  
+  <h2>Sun Wu</h2>
+  <p>Sun Wu or better known as Sun Tzu was born in the late Spring and Autumn period, he was active as a general and strategist, serving king Helü of Wu in the late sixth century BC, beginning around 512 BC. Sun Tzu's victories then inspired him to write The Art of War. The Art of War was one of the most widely read military treatises in the subsequent Warring States period, a time of constant war among seven nations – Zhao, Qi, Qin, Chu, Han, Wei, and Yan – who fought to control the vast expanse of fertile territory in Eastern China .Sun Tzu was tasked with training an army of 30,000 to fight an army 10 times as large, a challenge that is thought to be impossible. The Art of War would be proven on the battle in the years to follow. </p>
+
+
+      <hr/>
+
+  <h2>The Art of War</h2>
+  <p>The Art of War was a book written by Sun Tzu, it is comprised of tactics/guide lines for a fighting force. Think of each chapter as a strong string, but once you put them all together you have an unbreakable rope.</p><br/><br/>
+  </div>
+  <div class="text-left">
+  <ul>
+      <li><strong>Laying Plans- </strong> Explores the five fundamental factors (the Way, seasons, terrain, leadership, and management) and seven elements that determine the outcomes of military engagements. By thinking, assessing and comparing these points, a commander can calculate his chances of victory. Habitual deviation from these calculations will ensure failure via improper action. The text stresses that war is a very grave matter for the state and must not be commenced without due consideration. </li><br/>
+    
+      <li><strong>Waging War- </strong> Explains how to understand the economy of warfare and how success requires winning decisive engagements quickly. This section advises that successful military campaigns require limiting the cost of competition and conflict.     </li><br/>
+    
+      <li><strong>Strategic Attack- </strong> Defines the source of strength as unity, not size, and discusses the five factors that are needed to succeed in any war. In order of importance, these critical factors are: Attack, Strategy, Alliances, Army and Cities.  </li><br/>
+    
+      <li><strong>Tactical Dispositions- </strong>Explains the importance of defending existing positions until a commander is capable of advancing from those positions in safety. It teaches commanders the importance of recognizing strategic opportunities, and teaches not to create opportunities for the enemy.   </li><br/>
+    
+      <li><strong>Forces- </strong> Explains the use of creativity and timing in building an army's momentum.</li><br/>
+    
+      <li><strong>Weaknesses and Strengths- </strong> Explains how an army's opportunities come from the openings in the environment caused by the relative weakness of the enemy and how to respond to changes in the fluid battlefield over a given area. </li><br/>
+      <li><strong>Movement and Development of Troops- </strong>Explains the dangers of direct conflict and how to win those confrontations when they are forced upon the commander. </li><br/>
+    
+      <li><strong>Variation of Tactics- </strong>Focuses on the need for flexibility in an army's responses. It explains how to respond to shifting circumstances successfully.  </li><br/>
+    
+      <li><strong>The Army on the March- </strong>Describes the different situations in which an army finds itself as it moves through new enemy territories, and how to respond to these situations. Much of this section focuses on evaluating the intentions of others.  </li><br/>
+    
+      <li><strong>Terrain-	 </strong>  Looks at the three general areas of resistance (distance, dangers and barriers) and the six types of ground positions that arise from them. Each of these six field positions offers certain advantages and disadvantages. </li><br/>
+    
+      <li><strong>The Nine Battlegrounds- </strong>Describes the nine common situations (or stages) in a campaign, from scattering to deadly, and the specific focus that a commander will need in order to successfully navigate them. </li><br/>
+    
+      <li><strong>Attacking with Fire- </strong> Explains the general use of weapons and the specific use of the environment as a weapon. This section examines the five targets for attack, the five types of environmental attack and the appropriate responses to such attacks.   </li><br/>
+    
+      <li><strong>Intelligence and Espionage- </strong> Focuses on the importance of developing good information sources, and specifies the five types of intelligence sources and how to best manage each of them. </li><br/>
+  </ul><br/>
+    </div>
+    <hr/>
+    <div>
+      <h3 class="text-center">I would encourage anyone to checkout more about Sun Tzu and his book, if you have the time you should read over this <a href="https://en.wikipedia.org/wiki/Sun_Tzu"> Wikipedia page</a>. I would also recommended this <a href="https://www.youtube.com/watch?v=LGHLOGx9MUU"> video </a> by the history channel.</h3>
+      
+    </div>
+
+
+  </div>
+</body>
